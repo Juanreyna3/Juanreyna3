@@ -1,8 +1,8 @@
 Hi 👋 My name is Juan Reyna III
 ===============================
 
-Biomedical Engineer
--------------------
+Biomedical Engineer & Aspiring Software Engineer
+-------------------------------------------------
 
 * 🌍  I'm based in California, USA
 * ✉️  You can contact me at [J.reyna6399@gmail.com](mailto:J.reyna6399@gmail.com)
