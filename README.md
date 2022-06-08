@@ -6,7 +6,7 @@ Biomedical Engineer
 
 * 🌍  I'm based in California, USA
 * ✉️  You can contact me at [J.reyna6399@gmail.com](mailto:J.reyna6399@gmail.com)
-* 🧠  I'm learning JavaScript, HTML & CSS
+* 🧠  I'm brushing up on Machine Learning and currently learning JavaScript, HTML & CSS.
 * 🤝  I'm open to collaborating on projects related to using AI to improve biotech / healthcare
 
 ### Skills
